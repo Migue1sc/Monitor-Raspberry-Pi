@@ -5,4 +5,4 @@ Este sistema se encarga de monitorear espacios de trabajo por medio de sensores 
 ### Raspberry Pi:
 Se utilizó una Raspberry Pi 5 como dispositivo central del sistema, debido a su capacidad de procesamiento, conectividad y compatibilidad con múltiples sensores. Este dispositivo fue el encargado de ejecutar los scripts de lectura de datos, gestionar la comunicación con la base de datos y permitir el acceso a la interfaz web.
 
-<img width="773" height="434" alt="imagen" src="https://github.com/user-attachments/assets/e5a972c4-0313-4cc6-8a47-884b31c1b2f5" />
+<img width="500" height="280" alt="imagen" src="https://github.com/user-attachments/assets/e5a972c4-0313-4cc6-8a47-884b31c1b2f5" />
